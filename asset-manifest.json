@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portal-redesign/static/css/main.dbbdc0f2.css",
+    "main.js": "/portal-redesign/static/js/main.b3ef1107.js",
+    "static/media/phone.svg": "/portal-redesign/static/media/phone.aff793ca73db28bac9ac1b7aa015a484.svg",
+    "static/media/file.svg": "/portal-redesign/static/media/file.d33abc6f7e63a130bc96b5eba43a1389.svg",
+    "static/media/search.svg": "/portal-redesign/static/media/search.db288dfc1dddb3fd7d05d3af09a7075f.svg",
+    "index.html": "/portal-redesign/index.html",
+    "static/media/circle.svg": "/portal-redesign/static/media/circle.39d06ed38fcbec3277b4b2ab9688408d.svg",
+    "main.dbbdc0f2.css.map": "/portal-redesign/static/css/main.dbbdc0f2.css.map",
+    "main.b3ef1107.js.map": "/portal-redesign/static/js/main.b3ef1107.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbbdc0f2.css",
+    "static/js/main.b3ef1107.js"
+  ]
+}
